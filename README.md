@@ -1,3 +1,6 @@
 # CloudComputing
 DT228/3
-SFTguj9KkN
+
+Okeanos
+Ubuntu: SFTguj9KkN
+Kunbuntu: k1Ypc0xWxw
