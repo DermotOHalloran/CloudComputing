@@ -18,7 +18,7 @@ for x in range(0,4000000):
 	a,b = 1,1
 	for i in range(n - 1):
 		a,b = b,a+b
-		if i % 2 = 0:
+		if a % 2 = 0:
 			sum = sum + i
 
 print sum
